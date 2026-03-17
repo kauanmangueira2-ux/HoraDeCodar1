@@ -14,7 +14,7 @@ Este repositório contém exercícios iniciais de lógica de programação desen
 
 4. Desenvolver programas que calculem a **área de diferentes figuras planas**, onde o usuário informa os valores necessários para o cálculo.
 
-##  Objetivo
+ Objetivo
 Praticar os primeiros conceitos de lógica de programação, incluindo:
 - variáveis
 - entrada de dados
@@ -22,4 +22,3 @@ Praticar os primeiros conceitos de lógica de programação, incluindo:
 - cálculos matemáticos simples
 
 
-OI
