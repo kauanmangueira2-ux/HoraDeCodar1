@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios iniciais de lógica de programação desenvolvidos para praticar conceitos básicos como criação de variáveis, entrada de dados do usuário e cálculos simples.
 
-## 📚 Exercícios
+##  Exercícios
 
 1. Criar uma variável chamada **nome_do_carro** com o valor **"Fusca"** e exibi-la ao usuário.
 
@@ -14,7 +14,7 @@ Este repositório contém exercícios iniciais de lógica de programação desen
 
 4. Desenvolver programas que calculem a **área de diferentes figuras planas**, onde o usuário informa os valores necessários para o cálculo.
 
-## 🎯 Objetivo
+##  Objetivo
 Praticar os primeiros conceitos de lógica de programação, incluindo:
 - variáveis
 - entrada de dados
