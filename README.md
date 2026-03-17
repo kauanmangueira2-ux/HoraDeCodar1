@@ -1,4 +1,4 @@
-# 💻 Hora de Codar – Exercícios de Lógica de Programação
+## 💻 Hora de Codar – Exercícios de Lógica de Programação
 
 Este repositório contém exercícios iniciais de lógica de programação desenvolvidos para praticar conceitos básicos como criação de variáveis, entrada de dados do usuário e cálculos simples.
 
@@ -20,3 +20,6 @@ Praticar os primeiros conceitos de lógica de programação, incluindo:
 - entrada de dados
 - saída de informações
 - cálculos matemáticos simples
+
+
+OI
