@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>final</title>
+    <script>
+            /* Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. */
+        alert("Digite qual forma geometrica voce quer calcular a area: \n - Quadrado \n - Retangulo \n - Triangulo \n - Circulo");
+        var forma = prompt("Digite o nome correspondente a forma geometrica que voce deseja calcular a area:");
+        switch (forma) {
+            case "Quadrado":
+                var lado = prompt("Digite o valor do lado do quadrado:");
+                var area_quadrado = lado * lado;
+                alert("A area do quadrado é: " + area_quadrado);
+                break;
+            case "Retangulo":
+                var base_retangulo = prompt("Digite o valor da base do retangulo:");
+                var altura_retangulo = prompt("Digite o valor da altura do retangulo:");
+                var area_retangulo = base_retangulo * altura_retangulo;
+                alert("A area do retangulo é: " + area_retangulo);
+                break;
+            case "Triangulo":
+                var base_triangulo = prompt("Digite o valor da base do triangulo:");
+                var altura_triangulo = prompt("Digite o valor da altura do triangulo:");
+                var area_triangulo = (base_triangulo * altura_triangulo) / 2;
+                alert("A area do triangulo é: " + area_triangulo);
+                break;
+            case "Circulo":
+                var raio_circulo = prompt("Digite o valor do raio do circulo:");
+                var area_circulo = Math.PI * Math.pow(raio_circulo, 2);
+                alert("A area do circulo é: " + area_circulo.toFixed(2));
+                break;
+            default:
+                alert("Escolha uma forma geométrica certa.");
+        }
+    </script>
+</head>
+<body>
+</body>
+</html>
